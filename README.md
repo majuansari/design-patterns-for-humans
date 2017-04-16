@@ -340,6 +340,9 @@ As you can see the wooden door factory has encapsulated the `carpenter` and the 
 
 When there are interrelated dependencies with not-that-simple creation logic involved
 
+> I also find that it is difficult to distinguish this pattern from the Factory Method at a casual glance. For instance, in the Factory Method, didn’t we use an abstract Creator? Wouldn’t that mean that the Factory Method I showed was a actually an Abstract Factory? The big difference is that by its own definition, an Abstract Factory is used to create a family of related products (Factory Method creates one product).
+
+
 👷 Builder
 --------------------------------------------
 Real world example
