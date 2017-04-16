@@ -57,8 +57,12 @@ Wikipedia says
  * [Builder](#-builder)
  * [Prototype](#-prototype)
  * [Singleton](#-singleton)
-the difference between a simple factory, a factory method design pattern, and an abstract factory?
+
+
+> the difference between a simple factory, a factory method design pattern, and an abstract factory?
 https://www.linkedin.com/pulse/20140901184348-90925576-what-s-the-difference-between-a-simple-factory-a-factory-method-design-pattern-and-an-abstract-factory
+
+
 🏠 Simple Factory
 --------------
 Real world example
