@@ -779,6 +779,7 @@ Real world example
 In plain words
 > Composite pattern lets clients treat the individual objects in a uniform manner.
 
+> Effectively this pattern allows us to treat individual objects (a leaf) and a group of those objects (a composition) identically. Suppose we have a Song as the individual object and a Playlist as the group of objects - these would be treated identically. In this case, we can achieve this by both implementing the same Music interface with the same play, pause, stop, rewind, forward buttons.
 Wikipedia says
 > In software engineering, the composite pattern is a partitioning design pattern. The composite pattern describes that a group of objects is to be treated in the same way as a single instance of an object. The intent of a composite is to "compose" objects into tree structures to represent part-whole hierarchies. Implementing the composite pattern lets clients treat individual objects and compositions uniformly.
 
